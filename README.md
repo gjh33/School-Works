@@ -1,4 +1,8 @@
 School-Works
 ============
 
-Various applications created as part of school courses
+Various applications created as part of school courses:
+NonRecMergeSort
+searchEngine
+
+Personal Projects:
