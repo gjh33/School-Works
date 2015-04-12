@@ -1,0 +1,111 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-11376
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=2705 outsize=728 ok=1
+Cmd: preprocess
+  insize=2704 outsize=727 ok=1
+Cmd: preprocess
+  insize=2730 outsize=728 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1541 outsize=2054 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1541 outsize=1453 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1541 outsize=2485 kw=PIXELSNAP_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1541 outsize=1453 kw=PIXELSNAP_ON ok=1
+Cmd: preprocess
+  insize=2704 outsize=727 ok=1
+Cmd: preprocess
+  insize=2717 outsize=740 ok=1
+Cmd: preprocess
+  insize=2702 outsize=725 ok=1
+Cmd: preprocess
+  insize=2720 outsize=744 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1515 outsize=2054 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1515 outsize=1396 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1515 outsize=2485 kw=PIXELSNAP_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1515 outsize=1396 kw=PIXELSNAP_ON ok=1
+Cmd: preprocess
+  insize=2702 outsize=725 ok=1
+Cmd: preprocess
+  insize=2702 outsize=725 ok=1
+Cmd: preprocess
+  insize=2702 outsize=725 ok=1
+Cmd: preprocess
+  insize=2704 outsize=727 ok=1
+Cmd: preprocess
+  insize=2689 outsize=712 ok=1
+Cmd: preprocess
+  insize=2702 outsize=725 ok=1
+Cmd: preprocess
+  insize=2720 outsize=744 ok=1
+Cmd: preprocess
+  insize=2704 outsize=725 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1070 outsize=1233 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1070 outsize=754 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1070 outsize=1664 kw=PIXELSNAP_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1070 outsize=754 kw=PIXELSNAP_ON ok=1
+Cmd: preprocess
+  insize=2702 outsize=725 ok=1
+Cmd: preprocess
+  insize=2725 outsize=749 ok=1
+Cmd: preprocess
+  insize=2724 outsize=748 ok=1
+Cmd: preprocess
+  insize=2725 outsize=749 ok=1
+Cmd: preprocess
+  insize=2725 outsize=749 ok=1
+Cmd: preprocess
+  insize=2702 outsize=725 ok=1
+Cmd: preprocess
+  insize=2760 outsize=726 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1573 outsize=2054 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1573 outsize=1526 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1573 outsize=2485 kw=PIXELSNAP_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1573 outsize=1526 kw=PIXELSNAP_ON ok=1
+Cmd: preprocess
+  insize=2707 outsize=726 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1520 outsize=2054 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1520 outsize=1396 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1520 outsize=2485 kw=PIXELSNAP_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1520 outsize=1396 kw=PIXELSNAP_ON ok=1
+Cmd: preprocess
+  insize=2741 outsize=726 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1554 outsize=2054 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1554 outsize=1453 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1554 outsize=2485 kw=PIXELSNAP_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1554 outsize=1453 kw=PIXELSNAP_ON ok=1
+Cmd: preprocess
+  insize=2739 outsize=725 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1552 outsize=2054 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1552 outsize=1437 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1552 outsize=2485 kw=PIXELSNAP_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1552 outsize=1437 kw=PIXELSNAP_ON ok=1
+Cmd: preprocess
+  insize=2702 outsize=725 ok=1

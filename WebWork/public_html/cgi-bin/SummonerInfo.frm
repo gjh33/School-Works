@@ -1,0 +1,33 @@
+<html>
+	<head>
+		<title>{title}</title>
+	</head>
+	<body bgcolor="#5C85FF">
+		<div align="center">
+		<br><br>
+		<font size="32" color="#004700">Summoner Info Alpha</font>
+		<br><br>
+		<h2>Please enter your summoner name and region<h2>
+		<br>
+		<form action="./SummonerInfo.py" method="post">
+			<b>Region</b><br>
+			<select name=Region>
+				<option value="na" selected>NA</option>
+				<option value="euw">EUW</option>
+				<option value="uene">EUNE</option>
+				<option value="ru">RU</option>
+				<option value="br">BR (hue)</option>
+				<option value="kr">KR (overlords)</option>
+				<option value="lan">LAN</option>
+				<option value="las">LAS</option>
+				<option value="oce">OCE</option>
+				<option value="tr">TR</option>
+			</select><br><br>
+			<b>Username</b><br>
+			<input type="text" name="User"><br><br>
+			<input type="submit" value="Get Info">
+		</form><br>
+		{message}
+		</div>
+	</body>
+</html>

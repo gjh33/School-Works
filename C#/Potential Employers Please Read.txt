@@ -1,0 +1,5 @@
+Viking Rush 90% of the scripts were solely my work. The only two that weren't are block manager and monster manager.
+however those two files were heavily modified by me before the final version to bring them up to date.
+I was responsible for assigning scripts, and breaking down the project into managable components.
+
+Light game is 100% my material. Everything from shaders to scripts to graphics.

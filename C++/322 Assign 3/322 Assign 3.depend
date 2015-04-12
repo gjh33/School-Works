@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1426304298 source:c:\users\manha_000\documents\school\322 assign 3\gardenstest.cpp
+	<iostream>
+	<map>
+	<string>
+	<iomanip>
+	"gardens.h"
+
+1426205132 c:\users\manha_000\documents\school\322 assign 3\gardens.h
+	<vector>
+	<iostream>
+
+1426302510 source:c:\users\manha_000\documents\school\322 assign 3\gardensstudent.cpp
+	"gardens.h"
+	<stack>
+	<iostream>
+	<math.h>
+

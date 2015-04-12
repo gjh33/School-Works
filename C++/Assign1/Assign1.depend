@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1385316878 source:c:\users\manha_000\documents\school\assign1\main.cpp
+	<iostream>
+
+1422936970 source:c:\users\manha_000\documents\school\assign1\continuedstudent.cpp
+	"continued.h"
+	<iostream>
+
+1422754616 c:\users\manha_000\documents\school\assign1\continued.h
+	<iostream>
+
+1422936514 source:c:\users\manha_000\documents\school\assign1\continuedtest.cpp
+	"continued.h"
+

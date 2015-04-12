@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1425057966 source:c:\users\manha_000\documents\school\322 assign 2\flowersexamples.cpp
+	"flowers.h"
+
+1425057959 c:\users\manha_000\documents\school\322 assign 2\flowers.h
+	<iostream>
+	<vector>
+	<list>
+
+1425241754 source:c:\users\manha_000\documents\school\322 assign 2\flowersstudent.cpp
+	"flowers.h"
+	<math.h>
+
+1425241864 source:c:\users\manha_000\documents\school\322 assign 2\flowerstest.cpp
+	"flowers.h"
+	<iomanip>
+
